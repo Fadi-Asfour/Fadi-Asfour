@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/fadi-asfour/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fadi-asfour/" height="30" width="40" /></a>
 </p>
-add Right Gif Image
 (img align="right" alt="Coding" width="400" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/girl-designer-use-design-studio-6764680-5627297.mp4")
 
 
