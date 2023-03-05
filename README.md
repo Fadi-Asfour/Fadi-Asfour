@@ -7,15 +7,17 @@
 (img align="right" alt="Coding" width="400" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/girl-designer-use-design-studio-6764680-5627297.mp4")
 (img align="right" alt="Coding" width="400" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/girl-designer-use-design-studio-6764680-5627297.mp4")
 -->
+
 Here are some ideas to get you started:
-🔭 I’m currently working on projects analysis.
-🌱 I’m currently learning Software Engineering principles.
-👯 I’m looking to collaborate on big projects using Flutter.
-🤔 I’m looking for help with developing apps by Flutter.
-💬 Ask me about Programming principles, OOP, Flutter, Dart, Java and C++.
-📫 How to reach me: https://www.linkedin.com/in/fadi-asfour/
-😄 Pronouns: He/Him
-⚡ Fun fact: I love pizza, so if you do not like it, please do not contact me.
+- 🔭 I’m currently working on projects analysis.
+- 🌱 I’m currently learning Software Engineering principles.
+- 👯 I’m looking to collaborate on big projects using Flutter.
+- 🤔 I’m looking for help with developing apps by Flutter.
+- 💬 Ask me about Programming principles, OOP, Flutter, Dart, Java and C++.
+- 📫 How to reach me: https://www.linkedin.com/in/fadi-asfour/
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love pizza, so if you do not like it, please do not contact me.
+
 - <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/fadi-asfour/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fadi-asfour/" height="30" width="40" /></a>
