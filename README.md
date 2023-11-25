@@ -7,14 +7,14 @@
 -->
 
 Here are some ideas to get you started:
-- 🔭 I’m currently working on projects analysis.
-- 🌱 I’m currently learning Software Engineering principles.
-- 👯 I’m looking to collaborate on big projects using Flutter.
+- 🔭 I’m currently working on system analysis.
+- 🌱 I’m currently learning advanced Software Engineering principles.
+- 👯 I’m looking to collaborate on big projects using Flutter or other frameworks.
 - 🤔 I’m looking for help with developing apps by Flutter.
-- 💬 Ask me about Programming principles, OOP, Flutter, Dart, Java and C++.
+- 💬 Ask me about Software Engineering principles, OOP, Flutter, Dart, Java and C++.
 - 📫 How to reach me: https://www.linkedin.com/in/fadi-asfour/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love pizza, so if you do not like it, please do not contact me.
+- ⚡ Fun fact: I love pizza, so if you do not like it, please do not contact me. 😂
 
 - <h3 align="left">Connect with me:</h3>
 <p align="left">
