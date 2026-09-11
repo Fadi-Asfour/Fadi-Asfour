@@ -4,11 +4,11 @@
 
 I am a Software Engineer based in Syria with a strong focus on building scalable, accessible mobile and web systems. I specialize in clean architecture and robust state management. When I'm not developing enterprise solutions or supervising university student projects, I'm exploring advanced AI architectures or tackling complex algorithmic challenges. 
 
-- 🔭 **I’m currently working on:** High-performance enterprise systems (including government-level web systems) and offline-first mobile databases.
+- 🔭 **I’m currently working on:** High-performance enterprise systems (including public service web systems) and offline-first mobile databases.
 - 🌱 **I’m currently learning:** Advanced machine learning mechanics, including custom PyTorch implementations, RAG retrieval tools, ReAct agent workflows, and reinforcement learning.
 - 👯 **I’m looking to collaborate on:** Complex, large-scale mobile and web applications using Flutter or Next.js, as well as open-source AI projects.
 - 👨‍💻 **My Tech Stack:** Dart, TypeScript, Python, Java, C++, Next.js, Firebase, Docker, SQLite, and Odoo ERP.
-- 🏆 **Milestones:** Top 100 Syrian talent in the Al-Khwarizmi Fellowship (AI, algorithms, and robotics) and veteran competitive programmer (ACPC & DCPC).
+- 🏆 **Milestones:** Veteran competitive programmer (ACPC & DCPC).
 - 🌍 **Community:** Volunteer Web & Python Mentor at Paper Airplanes, and developer of accessibility-focused management applications for the Blind Care Association.
 - 💬 **Ask me about:** Clean Architecture, Software Engineering principles, OOP, and optimizing mobile app performance.
 - 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/fadi-asfour/)
